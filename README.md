@@ -2,12 +2,12 @@
 
 <b> My name is Emir Afiq Ridzuan </b>
 
-I can be reached by:-
-📫 Email    : emirafiq.ridzuan@gmail.com
-📫 Facebook : https://www.facebook.com/emirafiq.ridzuan/
-📫 LinkedIn : https://www.linkedin.com/in/emirafiqridzuan/
+I can be reached by:- <br>
+📫 Email    : emirafiq.ridzuan@gmail.com <br>
+📫 Facebook : https://www.facebook.com/emirafiq.ridzuan/ <br>
+📫 LinkedIn : https://www.linkedin.com/in/emirafiqridzuan/ <br>
 
-Have a look at my digital credential badges at credly.com
+Have a look at my digital credential badges at credly.com <br>
 https://www.credly.com/users/emir-afiq-ridzuan/badges
 
 <!---
